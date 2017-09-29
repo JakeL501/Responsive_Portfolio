@@ -324,7 +324,7 @@ h4 {
         height: auto;
     }
     .navbox {
-        width: 50%;
+        width: 65%;
         float: right;
     }
     .nav {
@@ -336,8 +336,9 @@ h4 {
         margin-top: 5%;
     }
     .divname {
-        width: 40%;
-        margin-left: 0%;
+        width: 45%;
+        margin-left: 0;
+        padding-left: 3px;
     }
     li {
         text-align: inline;
@@ -374,7 +375,7 @@ h4 {
         margin-top: 145%
     }
     .portfoot{
-        margin-top: 480%;
+        margin-top: 485%;
     }
     .total {
         width: 100%;
@@ -382,7 +383,10 @@ h4 {
   
     .divabout {
         width: 93%;
-        margin: 5% 10px 0px 10px;
+        margin: 10% 10px 0px 10px;
+    }
+    .divportfolio {
+        margin: 10% 10px 0px 10px;
     }
     .navbox {
         width: 100%;
@@ -391,13 +395,13 @@ h4 {
         padding-top: 0%;
         background-color: #FFFFFF;
         margin-top: 85px;
+        margin-bottom: -60%;
     }
     .divname {
         width: 100%;
         padding: 15px 0px 15px 0px;
         position: relative;
     }
-   
     .nav {
         margin: .15% 6% .15% 6%;
         float: center;
