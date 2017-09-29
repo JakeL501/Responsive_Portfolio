@@ -371,13 +371,15 @@ h4 {
     footer {
         width: 100%;
         position: relative;
+        margin-top: 145%
+    }
+    .portfoot{
+        margin-top: 480%;
     }
     .total {
         width: 100%;
     }
-    .divbox {
-        width: 100%;
-    }
+  
     .divabout {
         width: 93%;
         margin: 5% 10px 0px 10px;
@@ -388,16 +390,42 @@ h4 {
         height: 40px;
         padding-top: 0%;
         background-color: #FFFFFF;
+        margin-top: 85px;
     }
     .divname {
         width: 100%;
-        margin: 0% 0% 0% 0%;
+        padding: 15px 0px 15px 0px;
+        position: relative;
     }
+   
     .nav {
         margin: .15% 6% .15% 6%;
         float: center;
         padding-top: 10px;
         padding-bottom: 10px;
         
+    }
+    .img {
+        margin: 10px 20px 10px 40px;
+        position: relative;
+        width: 85%;
+        height: 500px;
+    }
+    .h24 {
+        margin-left: 41px;
+        width: 85%;
+        padding-top: 40px;
+        position: relative;
+        
+    }
+    .h135 {
+        margin-left: 41px;
+        width: 85%;
+        padding-top: 40px;
+        position: relative;  
+    }
+    h4 {
+        font-size: 25px;
+        line-height: 0px;
     }
 }
